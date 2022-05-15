@@ -1,2 +1,2 @@
-# Bioinformatics
+# Tarea2
 Para deberes
